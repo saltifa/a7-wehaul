@@ -1,0 +1,25 @@
+{
+  "name": "WeHaul",
+  "version": "0.0.1",
+  "author": "Team WeHaul",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amandadhar/ixd-base-code-w17"
+  },
+  "license": "MIT",
+
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "express3-handlebars": "*",
+    "mongodb": "*",
+    "mongoose": "*"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }  
+}
